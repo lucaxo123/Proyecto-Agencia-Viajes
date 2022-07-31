@@ -531,3 +531,13 @@ textarea{
         font-size: 15px;
     }
 }
+.animacion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(red, yellow, blue);
+}
+.animacion img{
+    height: 400px;
+}
